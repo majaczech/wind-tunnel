@@ -4,3 +4,6 @@
 This is 3D printed wind tunnel with Arduino-based unit. 
 
 **Experience with Arduino platform is required and supervision from a qualified electric engineering professional.**
+
+**The project is prototype under development and authors are not responsible for any damages or injuries caused by inappropriate construction or operation.**
+**This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.**
