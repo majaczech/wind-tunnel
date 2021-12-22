@@ -3,7 +3,7 @@
 
 This is 3D printed wind tunnel with Arduino-based unit. 
 
-This source describes Open Hardware and is licensed under the CERNOHL-S v2
+This source describes Open Hardware and is licensed under the CERN-OHL-S v2
 
 **Experience with Arduino platform is required and supervision from a qualified electric engineering professional.**
 
